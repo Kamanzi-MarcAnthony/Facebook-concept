@@ -1,0 +1,98 @@
+body{
+    background: rgba(0, 0, 255, 0.1);
+}
+
+
+#qn{
+    color: grey;
+    margin-left: 5px;
+}
+h1:hover{
+    transform: translateY(10px);
+    transition-duration: 3s;
+    background: blue;
+    color: white;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+    font-size: 40px;
+    text-align: center;
+    display: block;
+    background: white;
+}
+h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+input{
+    font-size: 20px;
+    width: 300px;
+    height: 50px;
+    border-radius: 9px;
+    margin-left: 20px;
+}
+.button{
+    
+    border: 2px solid grey;
+    padding: 30px;
+    border-radius: 9px;
+
+}
+
+div{
+    width: 700px;
+    padding: 50px;
+    margin-left: 400px;
+    background: white;
+    box-shadow: 3px 3px 20px 5px rgba(0, 0, 0, 0.109)
+    
+}
+input{
+    padding-left: 11px;
+}
+.Email{
+    width: 641.5px;
+}
+label{
+    font-size: 15px;
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px;
+}
+.gender{
+     font-size: 40px;
+    width: 100px;
+    height: 15px;
+    border-radius: 9px;
+    margin-left: 20px;
+    
+}
+.submit{
+    background: rgb(0, 158, 0);
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 220px;
+    padding: 1.2rem 7.5rem;
+    color: white;
+    border-radius: 5px;
+  
+}
+
+.Alt{
+margin-left: 200px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 20px;
+color: green;
+}
+.Alt:hover{
+    font-size: 22px;
+
+    color: blue;
+}
